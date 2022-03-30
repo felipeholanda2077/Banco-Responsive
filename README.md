@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">ÍNDICE...</p>
-<p align="center"><a href="#sobre">Sobre</a> • 
+<p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
 <a href="#Imagem">Imagem</a> • 
-<a href="#Tecnologias">Tecnologias</a> • 
+<a href="#Tecnologias-">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
 
 <h1 align="center">Banco-24Horas</h1>
