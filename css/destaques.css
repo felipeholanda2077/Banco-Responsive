@@ -35,7 +35,7 @@
 }
 
 .destaques__botao {
-    color: var(--vermelho-forte);
-    border-color: var(--vermelho-forte);
+    color: var(--bg-chamada-mobile);
+    border-color: var(--bg-chamada-mobile);
     margin: 0 auto;
 }
