@@ -3,7 +3,6 @@
       <img alt="Felipe Holanda" src="https://img.shields.io/badge/-Felipe Holanda-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
 </p>
-
 <p align="center">ÍNDICE...</p>
 <p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
 <a href="#Imagem">Imagem</a> • 
