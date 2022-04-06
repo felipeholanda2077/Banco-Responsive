@@ -13,7 +13,7 @@
 <h3 align="center">Sobre o Projeto</h3>
 
 <h4 align="center">Arquivos do projeto para o Banco 24Horas</h4>
-<h3 align="center">🚧 Em desenvolvimento 🚧</h3>
+<h3 align="center">🚧 1º - fase concluido - Front-End 🚧</h3>
 
 <br>
 
