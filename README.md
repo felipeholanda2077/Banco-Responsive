@@ -9,10 +9,10 @@
 <a href="#Tecnologias-">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
 
-<h1 align="center">Banco-24Horas</h1>
+<h1 align="center">Banco-24Horas Digital</h1>
 <h3 align="center">Sobre o Projeto</h3>
 
-<h4 align="center">Arquivos do projeto para o Banco 24Horas</h4>
+<h4 align="center">Arquivos do projeto para o Banco Digital</h4>
 <h3 align="center">🚀 1º - Fase Concluido / Front-End 🚀</h3>
 <h3 align="center">🚧 2º - Em Andamento / Página de Login 🚧</h3>
 
