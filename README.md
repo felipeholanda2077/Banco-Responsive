@@ -18,6 +18,14 @@
 
 <br>
 
+<h1 align="center">Imagem</h1>
+
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="/Img/Readme.png"/>
+</h1>
+
+<br>
+
   ### Tecnologias 🚀
 
   As seguintes ferramentas foram usadas na construção do projeto:
@@ -33,4 +41,5 @@
 <br>
 
   <p align="center">Made with 💜 by FELIPE HOLANDA 👋🏻 <br>[See my Linkedin](https://www.linkedin.com/in/felipe-holanda-de-freitas-3a91281a2/)</p>
+   <p align="center">---------------------------END------------------------</p>
 
