@@ -21,7 +21,7 @@
 <h1 align="center">Imagem</h1>
 
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="wwwroot/Imagens/MyBMW_Module_Mobile.jpg"/>
+   <img alt="Readme" title="Readme" src="/img/Readme.png"/>
 </h1>
 
 <br>
