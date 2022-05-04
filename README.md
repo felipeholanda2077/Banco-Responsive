@@ -21,7 +21,7 @@
 <h1 align="center">Imagem</h1>
 
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="Readme.png"/>
+   <img alt="Readme" title="Readme" src="/Img/Readme.png"/>
 </h1>
 
 <br>
