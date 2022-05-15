@@ -189,6 +189,3 @@ form input[type="submit"]:hover {
     height: 100%;
  }
 
- :required::before {
-     border: 1px dashed red;
- }
