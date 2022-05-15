@@ -35,6 +35,11 @@
     margin: 0 .5rem .7rem;
 }
 
+.rodape__link-ouvidoria {
+    display: inline-block;
+    margin: 0 .5rem .7rem;
+}
+
 @media screen and (min-width: 1024px) {
     .rodape {
         flex-direction: row;
