@@ -31,13 +31,15 @@
 
 .rodape__link {
     display: inline-block;
-
     margin: 0 .5rem .7rem;
+    text-align:start;
+    
 }
 
 .rodape__link-ouvidoria {
     display: inline-block;
     margin: 0 .5rem .7rem;
+
 }
 
 @media screen and (min-width: 1024px) {
