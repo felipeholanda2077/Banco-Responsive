@@ -36,6 +36,58 @@
     margin-left: .7rem;
 }
 
+.title span {
+    --total: calc(var(--duration)
+    + var(--delay));
+    position: relative;
+    display: block;
+    color: transparent;
+    overflow: hidden;
+    animation: revealText 1s
+    var(--total) forwards;
+}
+.title span::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transform: scaleX(0);
+    transform-origin: left;
+    background: gold;
+    animation: rollin var(--duration)
+    var(--delay) forwards,
+    rollout var(--duration)
+    var(--total) forwards;
+}
+.title span:nth-child(2)::after{
+    border-top: 3px solid #c9c5cf;
+}
+
+@keyframes revealText {
+    to{
+        color: #fff;
+    }
+}
+
+@keyframes rollin {
+    from {
+        transform: scaleX(0);
+    }
+    to {
+        transform: scaleX(1);
+    }
+}
+
+@keyframes rollout {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(105%);
+    }
+}
 
 @media screen and (min-width: 1024px) {
     .cabecalho {
