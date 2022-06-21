@@ -18,6 +18,13 @@
 
 <br>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
+
+<br>
+
 <h1 align="center">Imagem</h1>
 
 <h1 align="center">
