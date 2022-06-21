@@ -23,8 +23,6 @@
 </p>
 
 
-<br>
-
 <h1 align="center">Imagem</h1>
 
 <h1 align="center">
